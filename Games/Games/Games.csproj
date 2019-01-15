@@ -53,6 +53,7 @@
     <Compile Include="1. Manage programm flow\1.1. Implementing multithreading and async processing\ThreadingTests.cs" />
     <Compile Include="1. Manage programm flow\1.1. Implementing multithreading and async processing\PlayingWithPlinq.cs" />
     <Compile Include="1. Manage programm flow\1.1. Implementing multithreading and async processing\PlayingWithConcurrentBag.cs" />
+    <Compile Include="1. Manage programm flow\1.3. Implementing program flow\GoToGames.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
